@@ -1,0 +1,40 @@
+{
+    "employees": [
+      {
+        "id": "1122",
+        "name": "Ravi Kumar",
+        "role": "CEO",
+        "bio": "Ravi is the visionary behind the company, leading the way with innovative ideas and a passion for technology."
+      },
+      {
+        "id": "1133",
+        "name": "Nitin goyal",
+        "role": "Head of Marketing",
+        "bio": "Nitin oversees all marketing efforts and is instrumental in shaping the brand's identity."
+      },
+      {
+        "id": "1144",
+        "name": "Rahul Agarwal",
+        "role": "Lead Developer",
+        "bio": "rahul is the technical expert, ensuring the development of robust and user-friendly products."
+      },
+      {
+        "id": "1155",
+        "name": "Priya Sharma",
+        "role": "HR Manager",
+        "bio": "Priya manages human resources, fostering a positive work culture and employee development."
+      },
+      {
+        "id": "1166",
+        "name": "Amit Patel",
+        "role": "Product Manager",
+        "bio": "Amit drives product strategy and ensures alignment between customer needs and development goals."
+      },
+      {
+        "id": "1177",
+        "name": "Sneha Verma",
+        "role": "UX Designer",
+        "bio": "Sneha creates intuitive user experiences and beautiful interfaces for all our products."
+      }
+    ]
+  }

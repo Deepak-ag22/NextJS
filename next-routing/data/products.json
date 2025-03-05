@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mobile",
+      "description": "This is a detailed description of Mobile.",
+      "price": 2999.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Television",
+      "description": "This is a detailed description of Television.",
+      "price": 4449.99,
+      "category": "Home Appliances"
+    },
+    {
+      "id": 3,
+      "name": "Air Conditioner",
+      "description": "This is a detailed description of Air Conditioner",
+      "price": 9999.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 4,
+      "name": "Laptop",
+      "description": "High-performance laptop with latest processor and graphics card.",
+      "price": 5999.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Refrigerator",
+      "description": "Double-door frost-free refrigerator with smart features.",
+      "price": 3499.99,
+      "category": "Home Appliances"
+    },
+    {
+      "id": 6,
+      "name": "Washing Machine",
+      "description": "Fully automatic washing machine with multiple wash programs.",
+      "price": 2799.99,
+      "category": "Home Appliances"
+    },
+    {
+      "id": 7,
+      "name": "Smart Watch",
+      "description": "Feature-rich smartwatch with health monitoring capabilities.",
+      "price": 999.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 8,
+      "name": "Microwave Oven",
+      "description": "Convection microwave with grilling function.",
+      "price": 1499.99,
+      "category": "Home Appliances"
+    },
+    {
+      "id": 9,
+      "name": "Water Purifier",
+      "description": "RO+UV water purifier with mineral enhancement.",
+      "price": 1299.99,
+      "category": "Home Appliances"
+    }
+  ]
+}

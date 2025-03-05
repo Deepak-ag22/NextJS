@@ -1,0 +1,43 @@
+{
+    "teachers": [
+      { "id": 1, "name": "John Doe", "subject": "Math" },
+      { "id": 2, "name": "Jane Smith", "subject": "Science" },
+      { "id": 3, "name": "Alice Johnson", "subject": "English" },
+      { "id": 4, "name": "Mark Brown", "subject": "History" },
+      { "id": 5, "name": "Emily Davis", "subject": "Geography" }
+    ],
+    "students": [
+      { "id": 1, "name": "Student 1", "referred_teacher_id": 1 },
+      { "id": 2, "name": "Student 2", "referred_teacher_id": 2 },
+      { "id": 3, "name": "Student 3", "referred_teacher_id": 3 },
+      { "id": 4, "name": "Student 4", "referred_teacher_id": 4 },
+      { "id": 5, "name": "Student 5", "referred_teacher_id": 5 },
+      { "id": 6, "name": "Student 6", "referred_teacher_id": 1 },
+      { "id": 7, "name": "Student 7", "referred_teacher_id": 2 },
+      { "id": 8, "name": "Student 8", "referred_teacher_id": 3 },
+      { "id": 9, "name": "Student 9", "referred_teacher_id": 4 },
+      { "id": 10, "name": "Student 10", "referred_teacher_id": 5 },
+      { "id": 11, "name": "Student 11", "referred_teacher_id": 1 },
+      { "id": 12, "name": "Student 12", "referred_teacher_id": 2 },
+      { "id": 13, "name": "Student 13", "referred_teacher_id": 3 },
+      { "id": 14, "name": "Student 14", "referred_teacher_id": 4 },
+      { "id": 15, "name": "Student 15", "referred_teacher_id": 5 },
+      { "id": 16, "name": "Student 16", "referred_teacher_id": 1 },
+      { "id": 17, "name": "Student 17", "referred_teacher_id": 2 },
+      { "id": 18, "name": "Student 18", "referred_teacher_id": 3 },
+      { "id": 19, "name": "Student 19", "referred_teacher_id": 4 },
+      { "id": 20, "name": "Student 20", "referred_teacher_id": 5 },
+      { "id": 21, "name": "Student 21", "referred_teacher_id": 1 },
+      { "id": 22, "name": "Student 22", "referred_teacher_id": 2 },
+      { "id": 23, "name": "Student 23", "referred_teacher_id": 3 },
+      { "id": 24, "name": "Student 24", "referred_teacher_id": 4 },
+      { "id": 25, "name": "Student 25", "referred_teacher_id": 5 },
+      { "id": 26, "name": "Student 26", "referred_teacher_id": 1 },
+      { "id": 27, "name": "Student 27", "referred_teacher_id": 2 },
+      { "id": 28, "name": "Student 28", "referred_teacher_id": 3 },
+      { "id": 29, "name": "Student 29", "referred_teacher_id": 4 },
+      { "id": 30, "name": "Student 30", "referred_teacher_id": 5 }
+    ]
+  }
+
+  
